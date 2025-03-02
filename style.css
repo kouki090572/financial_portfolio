@@ -284,13 +284,19 @@ body {
                                         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
                                         text-align: center;
                                   }
-                                 
                                   footer img{
                                         width: 10%;
+                                        transition-duration: 0.5s;
                                   }
+
+                                  footer img:hover {
+                                        transform: translateY(-20%);
+                                        opacity: 0.7;
+                                  } 
+                               
                                   footer a{
                                         padding:  10% 45%;
-                                     
+                                   
                                   }
                             
 }
@@ -328,11 +334,10 @@ body {
                     
                     }
                     
-                    
                     .self_introduction {
                                         width: 80%;
                                         height: 350px;
-                                        margin: 80px auto 0;
+                                        margin: 60px auto 0;
                     }
                     
                     /*写真*/
@@ -359,7 +364,7 @@ body {
                     .profile {
                                         text-align: left;
                                         margin: 330px 24px 0;
-                                        height: 200px;
+                                        height: 110px;
                     }
                     
                     
@@ -373,7 +378,7 @@ body {
                     
                     .profile-2 {        
                                         width: 70%;
-                                        margin: 84px 48px 0;
+                                        margin: 10px 48px 0;
                                         height: 200px;
                     }
                     
@@ -571,6 +576,11 @@ body {
                                  
                                   footer img{
                                         width: 10%;
+                                        transition-duration: 1s;
+                                  }
+
+                                  footer img:hover {
+                                        transform: translateY(-40%);
                                   }
                                   footer a{
                                         padding:  10% 45%;
