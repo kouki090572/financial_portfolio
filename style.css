@@ -54,12 +54,12 @@ body {
                     }
                     
                     .photo img {
-                                        width: 25%;
+                                        width: 20%;
                                         height: 30%;
                                         transition: opacity 1s;
                                         opacity: 0;
                                         position: absolute;
-                                        border-radius: 50%;
+                                        border-radius: 25%;
                                         background-size: cover;
                                         background-position: center;
                                         background-repeat: no-repeat;
@@ -353,7 +353,7 @@ body {
                                         transition: opacity 1s;
                                         opacity: 0;
                                         position: absolute;
-                                        border-radius: 50%;
+                                        border-radius: 25%;
                                         left: 20%;
                     }
                     

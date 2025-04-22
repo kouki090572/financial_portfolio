@@ -1,7 +1,7 @@
 'use strict';
 {
 
-                    function play() {
+         /*           function play() {
 
                                         setTimeout(() => {
                                                             images[currentIndex].classList.remove("carousel");
@@ -17,7 +17,7 @@
 
                     const images = document.querySelectorAll(".photo img");
                     let currentIndex = 0;
-                    play();
+                    play();*/
                     /*busines-card*/
                     document.addEventListener("DOMContentLoaded", () => {
                                         const waterDotsOverlay = document.querySelector("#card1 .water-dots-overlay");
