@@ -537,7 +537,7 @@ body {
                                         /*font-weight: bold;*/
                                         color: rgb(255, 255, 255);
                                         /* 半透明の文字 */
-                                        margin: 2% 0 0 10%; 
+                                        margin: 10% 0 0 10%; 
                                         padding: 1%;
                                   }
                            
@@ -555,7 +555,7 @@ body {
                                         display: flex;
                                         align-items: center;
                                         margin-bottom: 2px;
-                                        gap: 8%;
+                                        gap: 6%;
                                         /* アイコンと文字の間隔 */
                                         font-size: 14px;
                                         /* サイズ */
